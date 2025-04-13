@@ -1,0 +1,8 @@
+
+.vs
+.vscode
+
+*.sln
+
+obj/
+bin/

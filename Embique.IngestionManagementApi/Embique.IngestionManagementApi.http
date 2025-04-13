@@ -1,0 +1,6 @@
+@Embique.IngestionManagementApi_HostAddress = http://localhost:5135
+
+GET {{Embique.IngestionManagementApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
